@@ -7,6 +7,8 @@
 - 🌱 &nbsp; Learning more about Kubernetes & TypeScript.
 - ✍️ &nbsp; Gaming, Guitaring, Crafting and Baking on the side. 
 
+<br/>
+
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
