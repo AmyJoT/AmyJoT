@@ -27,7 +27,7 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
  
 <br/>
-
+<a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmyJoT&show_icons=true&theme=gradient" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmyJoT&theme=buefy&layout=compact" />
 </a>
