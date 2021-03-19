@@ -31,6 +31,7 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
+
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AmyJoT&show_icons=true&theme=cobalt" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -39,4 +40,4 @@
 
 
 
-![Visitor Count](https://profile-counter.glitch.me/AmyJoT/count.svg)
+ <img align="center" src="https://profile-counter.glitch.me/AmyJoT/count.svg" />
