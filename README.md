@@ -7,7 +7,8 @@
 - 🌱 &nbsp; Learning more about Kubernetes & TypeScript.
 - ✍️ &nbsp; Gaming, Guitaring, Crafting and Baking on the side. 
 
-<br></br>
+
+
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
@@ -27,7 +28,8 @@
 - 🖥 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
  
----
+
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AmyJoT&show_icons=true&theme=cobalt" />
 </a>
@@ -35,5 +37,6 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmyJoT&theme=cobalt" />
 </a>
 
----
+
+
 ![Visitor Count](https://profile-counter.glitch.me/AmyJoT/count.svg)
