@@ -7,6 +7,7 @@
 - 🐣 &nbsp; Learning more about Kubernetes & TypeScript.
 - 🎈 &nbsp; Gaming, Guitaring, Crafting and Baking on the side. 
 
+---
 
 
 <h3> 🛠 &nbsp;Technologies</h3>
@@ -28,7 +29,7 @@
 - 🖥 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
  
-
+---
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
 
@@ -39,5 +40,5 @@
 </a>
 
 
-
+---
  <img align="center" src="https://profile-counter.glitch.me/AmyJoT/count.svg" />
