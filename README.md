@@ -2,14 +2,14 @@
 
 <h3> 💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Always exploring new technologies.
+- 😎 &nbsp; Always exploring new technologies.
 - 💼 &nbsp; Working at Anaplan as a Software Engineer striving to improve developer experience.
-- 🌱 &nbsp; Learning more about Kubernetes & TypeScript.
-- ✍️ &nbsp; Gaming, Guitaring, Crafting and Baking on the side. 
+- 🐣 &nbsp; Learning more about Kubernetes & TypeScript.
+- 🎈 &nbsp; Gaming, Guitaring, Crafting and Baking on the side. 
 
 
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> 🛠 &nbsp;Technologies</h3>
 
 - 💻 &nbsp;
   ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
