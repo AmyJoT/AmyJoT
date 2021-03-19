@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
-
 <h2> Hey there! I'm AmyJoT.</h2>
 
 <h3> 💻 &nbsp;About Me </h3>
@@ -31,7 +29,7 @@
 <br/>
 
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmyJoT&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://camo.githubusercontent.com/3986fdef016105b2217a0fa57b66c566550e5dfdb27e9bd939211823b9f60f11/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612662675f636f6c6f723d33302c6539363434332c393034653935267469746c655f636f6c6f723d66666626746578745f636f6c6f723d666666" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmyJoT&theme=buefy&layout=compact" />
 </a>
 
