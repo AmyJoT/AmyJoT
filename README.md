@@ -4,8 +4,8 @@
 
 - 😎 &nbsp; Always exploring new technologies.
 - 💼 &nbsp; Working at Anaplan as a Software Engineer striving to improve developer experience.
-- 🐣 &nbsp; Learning more about Kubernetes & TypeScript.
-- 🎈 &nbsp; Gaming, Guitaring, Crafting and Baking on the side. 
+- 🐣 &nbsp; Learning more about Rust, Kubernetes & AWS.
+- 🎈 &nbsp; Gaming, Guitaring, Crafting. 
 
 ---
 
