@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Amy Jo, a Software Engineer working at Anaplan, helping engineers deliver their code better!</div>  
+### <div align="center">I'm Amy Jo, a Software Engineer working at Anaplan, making developer tooling and more!</div>  
   
 
 - 🔭 I'm currently working on - Lots at Anaplan! The stuff I upload here is mostly just silly stuff & katas... nothing fancy!  
@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning - further honing my Rust and Typescript skills!  
   
 
--  🔨 Outside of my normal work - I love to solve tricky CI/CD problems and mentoring  
+-  🔨 Outside of my normal work - I love to solve tricky CI/CD problems and mentoring
   
 
 - ⚡ Fun fact: I spend most of my free time crafting and making cosplay. I recently delivered a talk on the parallels between craft and engineering!  
