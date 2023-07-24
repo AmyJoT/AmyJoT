@@ -9,10 +9,10 @@
 - 🔭 I'm currently working on - Lots at Anaplan! The stuff I upload here is mostly just silly stuff & katas... nothing fancy!  
   
 
-- 🌱 I’m currently learning - further honing my Rust and Typescript skills!  
+- 🌱 I’m currently learning - further honing my Rust and Typescript skills... and maybe do a Kubernetes course at some point
   
 
--  🔨 Outside of my normal work - I love to solve tricky CI/CD problems and mentoring
+-  🔨 Outside of my normal work - I love to solve tricky CI/CD problems and mentor people
   
 
 - ⚡ Fun fact: I spend most of my free time crafting and making cosplay. I recently delivered a talk on the parallels between craft and engineering!  
