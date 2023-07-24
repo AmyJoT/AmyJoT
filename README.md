@@ -92,15 +92,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AmyJoT&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AmyJoT&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
 
 <div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
 
