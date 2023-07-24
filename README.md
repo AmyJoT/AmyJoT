@@ -6,7 +6,7 @@
 ### <div align="center">I'm Amy Jo, a Software Engineer working at Anaplan, helping engineers deliver their code better!</div>  
   
 
-- 🔭 I'm currently working on - Lots at Anaplan! The stuff I upload here is mostly just silly stuff & katas... nothing too fancy!  
+- 🔭 I'm currently working on - Lots at Anaplan! The stuff I upload here is mostly just silly stuff & katas... nothing fancy!  
   
 
 - 🌱 I’m currently learning - further honing my Rust and Typescript skills!  
