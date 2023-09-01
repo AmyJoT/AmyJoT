@@ -15,7 +15,7 @@
 -  🔨 Outside of my normal work - I love to solve tricky CI/CD problems and mentor people
   
 
-- ⚡ Fun fact: I spend most of my free time crafting and making cosplay. I recently delivered a talk on the parallels between craft and engineering!  
+- ⚡ Fun fact: I spend most of my free time crafting and making cosplay. I recently delivered a talk on the parallels between creative crafts and engineering!  
   
 
 <br/>  
