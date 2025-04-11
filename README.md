@@ -3,13 +3,13 @@
 </div>  
   
 
-### <div align="center">I'm Amy Jo, a Software Engineer working at Starling Bank, making developer tooling and more!</div>  
+### <div align="center">I'm Amy Jo, a Software Engineer working at Anaplan, making developer tooling and more!</div>  
   
 
-- 🔭 I'm currently working on - Just starting out at Starling Bank! The personal stuff I upload here is mostly just silly stuff & katas... nothing fancy!  
+- 🔭 I'm currently working on - All things CD The personal stuff I upload here is mostly just silly stuff & katas... nothing fancy!  
   
 
-- 🌱 I’m currently learning - Gradle... and maybe do a Kubernetes course at some point
+- 🌱 I’m currently learning - more about security best practices!
   
 
 -  🔨 Outside of my normal work - I love to solve tricky CI/CD problems and mentor people
