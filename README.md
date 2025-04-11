@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Amy Jo, a Software Engineer working at Anaplan, making developer tooling and more!</div>  
+### <div align="center">I'm Amy Jo, a Software Engineer working at Anaplan, using Rust and making developer tooling and more!</div>  
   
 
 - 🔭 I'm currently working on - All things CD The personal stuff I upload here is mostly just silly stuff & katas... nothing fancy!  
